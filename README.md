@@ -2,8 +2,6 @@
 
 Operations leader turned AI-native developer. 15 years running kitchens, bar programs, and catering companies — now building tools and systems with Claude Code.
 
-🔗 [alexshaddy.dev](https://alexshaddy.dev)
-
 ## What I'm Building
 
 **[Dev Context Methodology](https://github.com/alexshaddy/dev-context-methodology)** — Open-source project lifecycle framework shipped as a Claude Code plugin. Stage gates, sprint tracking, incident logging, metrics, and backlog management. Built for solo devs who want structure without overhead.
